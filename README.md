@@ -7,7 +7,7 @@ This simple Python script generates passwords of varying lengths using digits (0
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/Nodik2006/dictionary-for-bruteforce.git
+    git clone https://github.com/n1dlee/dictionary-for-bruteforce.git
     cd dictionary-for-bruteforce
     ```
 
